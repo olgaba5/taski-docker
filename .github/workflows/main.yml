@@ -87,3 +87,4 @@ jobs:
           # устанавливаем тег latest, чтобы потом
           # на сервере и в docker-compose.yml не указывать версию
           tags: olgaba5/taski_backend:latest
+          
